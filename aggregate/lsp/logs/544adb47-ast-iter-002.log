@@ -1,0 +1,6 @@
+[2026-04-22T19:47:50Z] === AST ITERATION 2 START | repo=baoyachi/shadow-rs sha=544adb47 ===
+[2026-04-22T19:47:50Z] [iter=2] PHASE START: ast repo=baoyachi/shadow-rs sha=544adb47
+[2026-04-22T19:47:50Z] [iter=2] AST SKIPPED — chunks already exist count=1 dir=/home/runner/work/forx/forx/storage/aggregate/ast/544adb4738e9ae8c9917f211ca96edc57a0e04b9
+[2026-04-22T19:47:50Z] [iter=2] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/544adb4738e9ae8c9917f211ca96edc57a0e04b9/.complete
+[2026-04-22T19:47:50Z] [iter=2] PHASE END: ast elapsed_s=0 elapsed_min=0.0
+[2026-04-22T19:47:50Z] [iter=2] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
